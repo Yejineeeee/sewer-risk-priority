@@ -4,7 +4,7 @@
 
 명지대학교 창의적 SW 경진대회 빅데이터 분석 부문 최우수상 (2026) · TEAM 톰과젤리
 
-데모: [위험 지도와 의사결정 대시보드](https://leeju.github.io/sewer-risk-priority/)
+데모: [위험 지도와 의사결정 대시보드](https://yejineeeee.github.io/sewer-risk-priority/)
 
 ## 배경
 
