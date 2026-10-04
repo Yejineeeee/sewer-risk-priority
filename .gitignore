@@ -23,3 +23,6 @@ venv/
 .idea/
 .DS_Store
 Thumbs.db
+
+# 제작용 내부 문서
+결과보고서_콘텐츠시트.md
