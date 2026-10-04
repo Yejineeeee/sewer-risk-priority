@@ -19,6 +19,12 @@
 
 자치구별 위험 유형을 색으로 표시하고, 그 위에 침수 실측 21,412곳과 반복 보수 6,447지점, 실제 사고 152지점을 겹쳐 색칠의 근거를 원데이터로 확인할 수 있다.
 
+### 발표자료
+
+[전체 보기 (PDF, 19장)](https://yejineeeee.github.io/sewer-risk-priority/%EB%B0%9C%ED%91%9C%20PPT_%ED%86%B0%EA%B3%BC%EC%A0%A4%EB%A6%AC.pdf)
+
+[![발표자료](assets/slides-overview.png)](https://yejineeeee.github.io/sewer-risk-priority/%EB%B0%9C%ED%91%9C%20PPT_%ED%86%B0%EA%B3%BC%EC%A0%A4%EB%A6%AC.pdf)
+
 ## 배경
 
 2025년 3월 강동구 명일동에서 대형 지반침하로 인명 피해가 발생했다.     
