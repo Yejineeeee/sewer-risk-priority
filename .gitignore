@@ -1,0 +1,25 @@
+# ── AI-Hub 원본 데이터 (이용약관상 제3자 재배포 금지) ──
+dataset/
+data/aihub_labels/
+sewer_yolo_dataset.zip
+
+# ── 대용량 압축본 / 제출용 사본 ──
+*.zip
+전체 데이터/
+
+# ── 실행 로그 / 중간 산출 ──
+*.log
+data/accidents/*_pretty.json
+
+# ── 파이썬 ──
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# ── 에디터 / OS ──
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

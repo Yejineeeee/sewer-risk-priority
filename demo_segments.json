@@ -1,0 +1,127 @@
+[
+ {
+  "segment": "관로구간-08",
+  "n_images": 12,
+  "n_defects": 13,
+  "sinkhole": 4.989,
+  "flood": 4.013,
+  "total": 9.002,
+  "classes": [
+   "BK",
+   "CC",
+   "DS",
+   "JF",
+   "LP"
+  ]
+ },
+ {
+  "segment": "관로구간-02",
+  "n_images": 12,
+  "n_defects": 13,
+  "sinkhole": 5.245,
+  "flood": 3.514,
+  "total": 8.759,
+  "classes": [
+   "BK",
+   "CC",
+   "CL",
+   "DS",
+   "ETC",
+   "JD",
+   "JF"
+  ]
+ },
+ {
+  "segment": "관로구간-01",
+  "n_images": 12,
+  "n_defects": 10,
+  "sinkhole": 3.396,
+  "flood": 3.675,
+  "total": 7.071,
+  "classes": [
+   "CC",
+   "CL",
+   "DS",
+   "JD",
+   "LP",
+   "SD"
+  ]
+ },
+ {
+  "segment": "관로구간-04",
+  "n_images": 12,
+  "n_defects": 8,
+  "sinkhole": 2.752,
+  "flood": 2.916,
+  "total": 5.668,
+  "classes": [
+   "CL",
+   "DS",
+   "ETC",
+   "JD",
+   "LP"
+  ]
+ },
+ {
+  "segment": "관로구간-05",
+  "n_images": 12,
+  "n_defects": 10,
+  "sinkhole": 3.045,
+  "flood": 2.211,
+  "total": 5.256,
+  "classes": [
+   "DS",
+   "ETC",
+   "JD",
+   "LP",
+   "SD"
+  ]
+ },
+ {
+  "segment": "관로구간-03",
+  "n_images": 12,
+  "n_defects": 7,
+  "sinkhole": 2.565,
+  "flood": 2.667,
+  "total": 5.232,
+  "classes": [
+   "BK",
+   "DS",
+   "ETC",
+   "JD",
+   "LP"
+  ]
+ },
+ {
+  "segment": "관로구간-06",
+  "n_images": 12,
+  "n_defects": 6,
+  "sinkhole": 2.692,
+  "flood": 2.455,
+  "total": 5.147,
+  "classes": [
+   "BK",
+   "DS",
+   "ETC",
+   "JF",
+   "LP",
+   "SD"
+  ]
+ },
+ {
+  "segment": "관로구간-07",
+  "n_images": 12,
+  "n_defects": 7,
+  "sinkhole": 2.853,
+  "flood": 1.436,
+  "total": 4.289,
+  "classes": [
+   "CC",
+   "CL",
+   "ETC",
+   "JD",
+   "JF",
+   "LP"
+  ]
+ }
+]

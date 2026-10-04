@@ -1,0 +1,2412 @@
+[
+ {
+  "zone": 29,
+  "gu": "영등포구",
+  "dong": "영등포동7가",
+  "n_points": 21,
+  "total_repairs": 251,
+  "lat": 37.525204,
+  "lon": 126.907532,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 41,
+  "gu": "종로구",
+  "dong": "종로1가",
+  "n_points": 14,
+  "total_repairs": 237,
+  "lat": 37.570022,
+  "lon": 126.981112,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 123,
+  "gu": "영등포구",
+  "dong": "여의도동",
+  "n_points": 8,
+  "total_repairs": 207,
+  "lat": 37.524294,
+  "lon": 126.927637,
+  "acc_within_250m": 5
+ },
+ {
+  "zone": 40,
+  "gu": "성북구",
+  "dong": "길음동",
+  "n_points": 17,
+  "total_repairs": 198,
+  "lat": 37.609494,
+  "lon": 127.030442,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 35,
+  "gu": "구로구",
+  "dong": "구로동",
+  "n_points": 17,
+  "total_repairs": 193,
+  "lat": 37.491468,
+  "lon": 126.895317,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 109,
+  "gu": "은평구",
+  "dong": "불광동",
+  "n_points": 16,
+  "total_repairs": 150,
+  "lat": 37.618402,
+  "lon": 126.920998,
+  "acc_within_250m": 2
+ },
+ {
+  "zone": 84,
+  "gu": "서대문구",
+  "dong": "연희동",
+  "n_points": 17,
+  "total_repairs": 132,
+  "lat": 37.568715,
+  "lon": 126.918347,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 180,
+  "gu": "강동구",
+  "dong": "천호동",
+  "n_points": 17,
+  "total_repairs": 108,
+  "lat": 37.541731,
+  "lon": 127.119404,
+  "acc_within_250m": 2
+ },
+ {
+  "zone": 93,
+  "gu": "성북구",
+  "dong": "장위동",
+  "n_points": 11,
+  "total_repairs": 97,
+  "lat": 37.613204,
+  "lon": 127.060884,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 87,
+  "gu": "서초구",
+  "dong": "서초동",
+  "n_points": 9,
+  "total_repairs": 77,
+  "lat": 37.503415,
+  "lon": 127.022309,
+  "acc_within_250m": 2
+ },
+ {
+  "zone": 238,
+  "gu": "영등포구",
+  "dong": "양평동",
+  "n_points": 5,
+  "total_repairs": 77,
+  "lat": 37.527057,
+  "lon": 126.886078,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 240,
+  "gu": "영등포구",
+  "dong": "양평동4가",
+  "n_points": 3,
+  "total_repairs": 76,
+  "lat": 37.537019,
+  "lon": 126.895079,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 131,
+  "gu": "서대문구",
+  "dong": "충정로3가",
+  "n_points": 10,
+  "total_repairs": 71,
+  "lat": 37.560918,
+  "lon": 126.963634,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 230,
+  "gu": "중구",
+  "dong": "남대문로5가",
+  "n_points": 5,
+  "total_repairs": 67,
+  "lat": 37.556586,
+  "lon": 126.972732,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 103,
+  "gu": "마포구",
+  "dong": "도화동",
+  "n_points": 8,
+  "total_repairs": 59,
+  "lat": 37.541473,
+  "lon": 126.948313,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 119,
+  "gu": "종로구",
+  "dong": "연건동",
+  "n_points": 9,
+  "total_repairs": 57,
+  "lat": 37.576055,
+  "lon": 127.002585,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 94,
+  "gu": "성북구",
+  "dong": "길음동",
+  "n_points": 9,
+  "total_repairs": 53,
+  "lat": 37.603939,
+  "lon": 127.025252,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 105,
+  "gu": "성북구",
+  "dong": "돈암동",
+  "n_points": 8,
+  "total_repairs": 49,
+  "lat": 37.602323,
+  "lon": 127.022653,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 169,
+  "gu": "동작구",
+  "dong": "노량진동",
+  "n_points": 6,
+  "total_repairs": 49,
+  "lat": 37.511064,
+  "lon": 126.94016,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 137,
+  "gu": "강서구",
+  "dong": "외발산동",
+  "n_points": 8,
+  "total_repairs": 48,
+  "lat": 37.551832,
+  "lon": 126.81631,
+  "acc_within_250m": 2
+ },
+ {
+  "zone": 144,
+  "gu": "중구",
+  "dong": "을지로2가",
+  "n_points": 7,
+  "total_repairs": 40,
+  "lat": 37.566207,
+  "lon": 126.98355,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 165,
+  "gu": "서대문구",
+  "dong": "연희동",
+  "n_points": 7,
+  "total_repairs": 40,
+  "lat": 37.566406,
+  "lon": 126.923812,
+  "acc_within_250m": 2
+ },
+ {
+  "zone": 153,
+  "gu": "마포구",
+  "dong": "아현동",
+  "n_points": 6,
+  "total_repairs": 37,
+  "lat": 37.55116,
+  "lon": 126.955589,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 159,
+  "gu": "마포구",
+  "dong": "대흥동",
+  "n_points": 6,
+  "total_repairs": 37,
+  "lat": 37.54792,
+  "lon": 126.942464,
+  "acc_within_250m": 2
+ },
+ {
+  "zone": 174,
+  "gu": "성북구",
+  "dong": "성북동1가",
+  "n_points": 6,
+  "total_repairs": 36,
+  "lat": 37.588461,
+  "lon": 127.004898,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 196,
+  "gu": "성북구",
+  "dong": "하월곡동",
+  "n_points": 5,
+  "total_repairs": 34,
+  "lat": 37.612159,
+  "lon": 127.036264,
+  "acc_within_250m": 1
+ },
+ {
+  "zone": 18,
+  "gu": "영등포구",
+  "dong": "당산동",
+  "n_points": 95,
+  "total_repairs": 1082,
+  "lat": 37.535135,
+  "lon": 126.900697,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 59,
+  "gu": "용산구",
+  "dong": "갈월동",
+  "n_points": 93,
+  "total_repairs": 802,
+  "lat": 37.547308,
+  "lon": 126.970862,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 8,
+  "gu": "영등포구",
+  "dong": "영등포동2가",
+  "n_points": 55,
+  "total_repairs": 660,
+  "lat": 37.51888,
+  "lon": 126.9104,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 10,
+  "gu": "용산구",
+  "dong": "한강로3가",
+  "n_points": 57,
+  "total_repairs": 619,
+  "lat": 37.531641,
+  "lon": 126.9637,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 3,
+  "gu": "구로구",
+  "dong": "개봉동",
+  "n_points": 40,
+  "total_repairs": 616,
+  "lat": 37.497143,
+  "lon": 126.846239,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 32,
+  "gu": "영등포구",
+  "dong": "문래동1가",
+  "n_points": 47,
+  "total_repairs": 508,
+  "lat": 37.513205,
+  "lon": 126.896825,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 13,
+  "gu": "양천구",
+  "dong": "국회대로",
+  "n_points": 41,
+  "total_repairs": 490,
+  "lat": 37.530154,
+  "lon": 126.863754,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 5,
+  "gu": "성북구",
+  "dong": "하월곡동",
+  "n_points": 50,
+  "total_repairs": 469,
+  "lat": 37.602128,
+  "lon": 127.041099,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 46,
+  "gu": "양천구",
+  "dong": "신정동",
+  "n_points": 30,
+  "total_repairs": 451,
+  "lat": 37.508952,
+  "lon": 126.842293,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 6,
+  "gu": "중랑구",
+  "dong": "휘경동",
+  "n_points": 27,
+  "total_repairs": 445,
+  "lat": 37.591935,
+  "lon": 127.070257,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 0,
+  "gu": "양천구",
+  "dong": "목동",
+  "n_points": 8,
+  "total_repairs": 439,
+  "lat": 37.530442,
+  "lon": 126.872368,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 2,
+  "gu": "구로구",
+  "dong": "개봉동",
+  "n_points": 23,
+  "total_repairs": 373,
+  "lat": 37.493639,
+  "lon": 126.855535,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 22,
+  "gu": "노원구",
+  "dong": "월계동",
+  "n_points": 22,
+  "total_repairs": 355,
+  "lat": 37.632531,
+  "lon": 127.063116,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 53,
+  "gu": "금천구",
+  "dong": "구로동",
+  "n_points": 42,
+  "total_repairs": 349,
+  "lat": 37.480614,
+  "lon": 126.901149,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 30,
+  "gu": "강서구",
+  "dong": "등촌동",
+  "n_points": 28,
+  "total_repairs": 299,
+  "lat": 37.550103,
+  "lon": 126.865054,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 25,
+  "gu": "강서구",
+  "dong": "화곡동",
+  "n_points": 28,
+  "total_repairs": 291,
+  "lat": 37.555585,
+  "lon": 126.851525,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 4,
+  "gu": "종로구",
+  "dong": "종로3가",
+  "n_points": 9,
+  "total_repairs": 290,
+  "lat": 37.569936,
+  "lon": 126.992318,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 14,
+  "gu": "영등포구",
+  "dong": "양평동1가",
+  "n_points": 15,
+  "total_repairs": 287,
+  "lat": 37.52273,
+  "lon": 126.887571,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 65,
+  "gu": "용산구",
+  "dong": "이태원동",
+  "n_points": 23,
+  "total_repairs": 286,
+  "lat": 37.534647,
+  "lon": 126.988168,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 19,
+  "gu": "구로구",
+  "dong": "남부순환로105길",
+  "n_points": 20,
+  "total_repairs": 269,
+  "lat": 37.480142,
+  "lon": 126.889257,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 50,
+  "gu": "노원구",
+  "dong": "월계동",
+  "n_points": 20,
+  "total_repairs": 247,
+  "lat": 37.615349,
+  "lon": 127.067559,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 115,
+  "gu": "동작구",
+  "dong": "흑석동",
+  "n_points": 24,
+  "total_repairs": 226,
+  "lat": 37.508705,
+  "lon": 126.964317,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 70,
+  "gu": "마포구",
+  "dong": "망원동",
+  "n_points": 15,
+  "total_repairs": 225,
+  "lat": 37.551809,
+  "lon": 126.901344,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 31,
+  "gu": "금천구",
+  "dong": "가산동",
+  "n_points": 19,
+  "total_repairs": 224,
+  "lat": 37.486177,
+  "lon": 126.879475,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 12,
+  "gu": "성북구",
+  "dong": "하월곡동",
+  "n_points": 10,
+  "total_repairs": 209,
+  "lat": 37.603995,
+  "lon": 127.031509,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 7,
+  "gu": "영등포구",
+  "dong": "양화동",
+  "n_points": 8,
+  "total_repairs": 208,
+  "lat": 37.545852,
+  "lon": 126.886438,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 39,
+  "gu": "영등포구",
+  "dong": "여의도동",
+  "n_points": 9,
+  "total_repairs": 206,
+  "lat": 37.532389,
+  "lon": 126.909576,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 1,
+  "gu": "양천구",
+  "dong": "목동중앙서로",
+  "n_points": 5,
+  "total_repairs": 200,
+  "lat": 37.532816,
+  "lon": 126.866885,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 60,
+  "gu": "성북구",
+  "dong": "정릉동",
+  "n_points": 24,
+  "total_repairs": 198,
+  "lat": 37.603424,
+  "lon": 127.015317,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 58,
+  "gu": "은평구",
+  "dong": "대조동",
+  "n_points": 17,
+  "total_repairs": 195,
+  "lat": 37.611587,
+  "lon": 126.917144,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 52,
+  "gu": "구로구",
+  "dong": "구로동",
+  "n_points": 18,
+  "total_repairs": 193,
+  "lat": 37.502225,
+  "lon": 126.880915,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 102,
+  "gu": "송파구",
+  "dong": "삼전동",
+  "n_points": 14,
+  "total_repairs": 188,
+  "lat": 37.500067,
+  "lon": 127.082589,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 42,
+  "gu": "종로구",
+  "dong": "현저동",
+  "n_points": 18,
+  "total_repairs": 187,
+  "lat": 37.572007,
+  "lon": 126.960327,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 90,
+  "gu": "구로구",
+  "dong": "신도림동",
+  "n_points": 19,
+  "total_repairs": 187,
+  "lat": 37.506366,
+  "lon": 126.875131,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 85,
+  "gu": "양천구",
+  "dong": "신월동",
+  "n_points": 11,
+  "total_repairs": 181,
+  "lat": 37.525466,
+  "lon": 126.837533,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 26,
+  "gu": "양천구",
+  "dong": "화곡동",
+  "n_points": 17,
+  "total_repairs": 180,
+  "lat": 37.527205,
+  "lon": 126.848953,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 47,
+  "gu": "영등포구",
+  "dong": "여의도동",
+  "n_points": 9,
+  "total_repairs": 170,
+  "lat": 37.528817,
+  "lon": 126.910495,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 64,
+  "gu": "구로구",
+  "dong": "오류동",
+  "n_points": 20,
+  "total_repairs": 169,
+  "lat": 37.488761,
+  "lon": 126.834497,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 43,
+  "gu": "강서구",
+  "dong": "염창동",
+  "n_points": 11,
+  "total_repairs": 165,
+  "lat": 37.548315,
+  "lon": 126.878137,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 9,
+  "gu": "양천구",
+  "dong": "남부순환로",
+  "n_points": 9,
+  "total_repairs": 164,
+  "lat": 37.52738,
+  "lon": 126.833815,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 33,
+  "gu": "양천구",
+  "dong": "신정동",
+  "n_points": 13,
+  "total_repairs": 164,
+  "lat": 37.518005,
+  "lon": 126.8753,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 75,
+  "gu": "용산구",
+  "dong": "원효로4가",
+  "n_points": 14,
+  "total_repairs": 164,
+  "lat": 37.53128,
+  "lon": 126.953867,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 113,
+  "gu": "성동구",
+  "dong": "용답동",
+  "n_points": 12,
+  "total_repairs": 162,
+  "lat": 37.559797,
+  "lon": 127.071218,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 48,
+  "gu": "강서구",
+  "dong": "외발산동",
+  "n_points": 18,
+  "total_repairs": 161,
+  "lat": 37.547477,
+  "lon": 126.820472,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 66,
+  "gu": "강서구",
+  "dong": "공항동",
+  "n_points": 20,
+  "total_repairs": 160,
+  "lat": 37.562118,
+  "lon": 126.809389,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 45,
+  "gu": "강남구",
+  "dong": "삼성동",
+  "n_points": 13,
+  "total_repairs": 153,
+  "lat": 37.516075,
+  "lon": 127.06614,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 166,
+  "gu": "영등포구",
+  "dong": "양평동3가",
+  "n_points": 15,
+  "total_repairs": 149,
+  "lat": 37.530032,
+  "lon": 126.891846,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 122,
+  "gu": "구로구",
+  "dong": "구로동",
+  "n_points": 12,
+  "total_repairs": 148,
+  "lat": 37.493701,
+  "lon": 126.871956,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 17,
+  "gu": "구로구",
+  "dong": "경인로",
+  "n_points": 10,
+  "total_repairs": 146,
+  "lat": 37.505896,
+  "lon": 126.884334,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 67,
+  "gu": "구로구",
+  "dong": "고척동",
+  "n_points": 12,
+  "total_repairs": 139,
+  "lat": 37.498644,
+  "lon": 126.867715,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 37,
+  "gu": "마포구",
+  "dong": "합정동",
+  "n_points": 16,
+  "total_repairs": 138,
+  "lat": 37.545862,
+  "lon": 126.910777,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 98,
+  "gu": "용산구",
+  "dong": "서빙고동",
+  "n_points": 12,
+  "total_repairs": 136,
+  "lat": 37.517209,
+  "lon": 126.986042,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 68,
+  "gu": "영등포구",
+  "dong": "양평동2가",
+  "n_points": 9,
+  "total_repairs": 135,
+  "lat": 37.523538,
+  "lon": 126.88174,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 81,
+  "gu": "성북구",
+  "dong": "정릉동",
+  "n_points": 12,
+  "total_repairs": 134,
+  "lat": 37.608781,
+  "lon": 126.999351,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 176,
+  "gu": "구로구",
+  "dong": "구로동",
+  "n_points": 7,
+  "total_repairs": 133,
+  "lat": 37.499218,
+  "lon": 126.871672,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 69,
+  "gu": "강서구",
+  "dong": "화곡동",
+  "n_points": 15,
+  "total_repairs": 127,
+  "lat": 37.540817,
+  "lon": 126.841328,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 51,
+  "gu": "종로구",
+  "dong": "중학동",
+  "n_points": 13,
+  "total_repairs": 126,
+  "lat": 37.575569,
+  "lon": 126.980743,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 34,
+  "gu": "구로구",
+  "dong": "항동",
+  "n_points": 7,
+  "total_repairs": 124,
+  "lat": 37.479907,
+  "lon": 126.823032,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 231,
+  "gu": "양천구",
+  "dong": "남부순환로",
+  "n_points": 5,
+  "total_repairs": 119,
+  "lat": 37.534365,
+  "lon": 126.829209,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 23,
+  "gu": "마포구",
+  "dong": "상암동",
+  "n_points": 8,
+  "total_repairs": 118,
+  "lat": 37.56363,
+  "lon": 126.884837,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 71,
+  "gu": "은평구",
+  "dong": "불광동",
+  "n_points": 7,
+  "total_repairs": 118,
+  "lat": 37.608893,
+  "lon": 126.931894,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 11,
+  "gu": "강남구",
+  "dong": "청담동",
+  "n_points": 6,
+  "total_repairs": 117,
+  "lat": 37.524149,
+  "lon": 127.046279,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 72,
+  "gu": "구로구",
+  "dong": "항동",
+  "n_points": 9,
+  "total_repairs": 117,
+  "lat": 37.483157,
+  "lon": 126.826982,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 77,
+  "gu": "영등포구",
+  "dong": "영등포동8가",
+  "n_points": 10,
+  "total_repairs": 117,
+  "lat": 37.529318,
+  "lon": 126.905977,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 214,
+  "gu": "강동구",
+  "dong": "고덕동",
+  "n_points": 5,
+  "total_repairs": 116,
+  "lat": 37.569395,
+  "lon": 127.156793,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 27,
+  "gu": "강남구",
+  "dong": "도곡동",
+  "n_points": 7,
+  "total_repairs": 113,
+  "lat": 37.487094,
+  "lon": 127.05322,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 55,
+  "gu": "강남구",
+  "dong": "청담동",
+  "n_points": 6,
+  "total_repairs": 111,
+  "lat": 37.526334,
+  "lon": 127.055263,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 15,
+  "gu": "서초구",
+  "dong": "서초동",
+  "n_points": 9,
+  "total_repairs": 110,
+  "lat": 37.496126,
+  "lon": 127.027815,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 49,
+  "gu": "구로구",
+  "dong": "항동",
+  "n_points": 12,
+  "total_repairs": 108,
+  "lat": 37.476563,
+  "lon": 126.819008,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 28,
+  "gu": "중구",
+  "dong": "주자동",
+  "n_points": 6,
+  "total_repairs": 105,
+  "lat": 37.561504,
+  "lon": 126.988535,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 139,
+  "gu": "영등포구",
+  "dong": "신길동",
+  "n_points": 16,
+  "total_repairs": 105,
+  "lat": 37.497445,
+  "lon": 126.917325,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 16,
+  "gu": "영등포구",
+  "dong": "영등포로",
+  "n_points": 6,
+  "total_repairs": 104,
+  "lat": 37.521026,
+  "lon": 126.897313,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 24,
+  "gu": "영등포구",
+  "dong": "문래동5가",
+  "n_points": 5,
+  "total_repairs": 104,
+  "lat": 37.518216,
+  "lon": 126.882078,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 63,
+  "gu": "서초구",
+  "dong": "반포동",
+  "n_points": 5,
+  "total_repairs": 104,
+  "lat": 37.505811,
+  "lon": 126.988017,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 73,
+  "gu": "관악구",
+  "dong": "신림동",
+  "n_points": 9,
+  "total_repairs": 104,
+  "lat": 37.481835,
+  "lon": 126.915086,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 136,
+  "gu": "은평구",
+  "dong": "녹번동",
+  "n_points": 6,
+  "total_repairs": 103,
+  "lat": 37.60632,
+  "lon": 126.922726,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 134,
+  "gu": "금천구",
+  "dong": "독산동",
+  "n_points": 14,
+  "total_repairs": 102,
+  "lat": 37.467522,
+  "lon": 126.897962,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 235,
+  "gu": "금천구",
+  "dong": "가산동",
+  "n_points": 6,
+  "total_repairs": 102,
+  "lat": 37.479453,
+  "lon": 126.879979,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 101,
+  "gu": "구로구",
+  "dong": "신도림동",
+  "n_points": 10,
+  "total_repairs": 100,
+  "lat": 37.514672,
+  "lon": 126.881445,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 129,
+  "gu": "강북구",
+  "dong": "미아동",
+  "n_points": 5,
+  "total_repairs": 99,
+  "lat": 37.615288,
+  "lon": 127.030498,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 132,
+  "gu": "양천구",
+  "dong": "목동",
+  "n_points": 13,
+  "total_repairs": 99,
+  "lat": 37.525135,
+  "lon": 126.870599,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 44,
+  "gu": "양천구",
+  "dong": "목동",
+  "n_points": 9,
+  "total_repairs": 98,
+  "lat": 37.524157,
+  "lon": 126.876587,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 56,
+  "gu": "양천구",
+  "dong": "신정동",
+  "n_points": 8,
+  "total_repairs": 98,
+  "lat": 37.508049,
+  "lon": 126.871584,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 79,
+  "gu": "용산구",
+  "dong": "서빙고동",
+  "n_points": 13,
+  "total_repairs": 98,
+  "lat": 37.518481,
+  "lon": 126.992416,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 86,
+  "gu": "성동구",
+  "dong": "성수동1가",
+  "n_points": 13,
+  "total_repairs": 98,
+  "lat": 37.538256,
+  "lon": 127.042819,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 133,
+  "gu": "송파구",
+  "dong": "가락동",
+  "n_points": 13,
+  "total_repairs": 98,
+  "lat": 37.501003,
+  "lon": 127.111005,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 135,
+  "gu": "동작구",
+  "dong": "대방동",
+  "n_points": 16,
+  "total_repairs": 96,
+  "lat": 37.513532,
+  "lon": 126.927361,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 38,
+  "gu": "관악구",
+  "dong": "봉천동",
+  "n_points": 11,
+  "total_repairs": 95,
+  "lat": 37.481281,
+  "lon": 126.952967,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 78,
+  "gu": "영등포구",
+  "dong": "여의도동",
+  "n_points": 6,
+  "total_repairs": 95,
+  "lat": 37.520997,
+  "lon": 126.919428,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 117,
+  "gu": "동대문구",
+  "dong": "전농동",
+  "n_points": 11,
+  "total_repairs": 95,
+  "lat": 37.578869,
+  "lon": 127.056835,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 21,
+  "gu": "구로구",
+  "dong": "구로동",
+  "n_points": 5,
+  "total_repairs": 94,
+  "lat": 37.48629,
+  "lon": 126.898247,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 36,
+  "gu": "영등포구",
+  "dong": "당산동1가",
+  "n_points": 5,
+  "total_repairs": 94,
+  "lat": 37.520206,
+  "lon": 126.900672,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 149,
+  "gu": "동대문구",
+  "dong": "제기동",
+  "n_points": 7,
+  "total_repairs": 94,
+  "lat": 37.589457,
+  "lon": 127.036327,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 57,
+  "gu": "구로구",
+  "dong": "궁동",
+  "n_points": 8,
+  "total_repairs": 91,
+  "lat": 37.493788,
+  "lon": 126.831311,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 192,
+  "gu": "강서구",
+  "dong": "등촌동",
+  "n_points": 13,
+  "total_repairs": 90,
+  "lat": 37.561135,
+  "lon": 126.854965,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 20,
+  "gu": "관악구",
+  "dong": "남부순환로",
+  "n_points": 6,
+  "total_repairs": 86,
+  "lat": 37.476819,
+  "lon": 126.964277,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 199,
+  "gu": "용산구",
+  "dong": "한남동",
+  "n_points": 10,
+  "total_repairs": 86,
+  "lat": 37.540415,
+  "lon": 127.003601,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 88,
+  "gu": "금천구",
+  "dong": "독산동",
+  "n_points": 7,
+  "total_repairs": 81,
+  "lat": 37.464705,
+  "lon": 126.885033,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 125,
+  "gu": "성북구",
+  "dong": "장위동",
+  "n_points": 15,
+  "total_repairs": 80,
+  "lat": 37.615433,
+  "lon": 127.054968,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 151,
+  "gu": "동작구",
+  "dong": "노량진동",
+  "n_points": 11,
+  "total_repairs": 80,
+  "lat": 37.513262,
+  "lon": 126.947683,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 54,
+  "gu": "강서구",
+  "dong": "염창동",
+  "n_points": 6,
+  "total_repairs": 79,
+  "lat": 37.551621,
+  "lon": 126.870916,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 80,
+  "gu": "서초구",
+  "dong": "반포동",
+  "n_points": 6,
+  "total_repairs": 79,
+  "lat": 37.507643,
+  "lon": 126.993271,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 83,
+  "gu": "성북구",
+  "dong": "석관동",
+  "n_points": 8,
+  "total_repairs": 78,
+  "lat": 37.610713,
+  "lon": 127.057471,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 91,
+  "gu": "양천구",
+  "dong": "신정동",
+  "n_points": 5,
+  "total_repairs": 78,
+  "lat": 37.525459,
+  "lon": 126.864646,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 111,
+  "gu": "은평구",
+  "dong": "증산동",
+  "n_points": 8,
+  "total_repairs": 78,
+  "lat": 37.577842,
+  "lon": 126.902939,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 183,
+  "gu": "마포구",
+  "dong": "망원동",
+  "n_points": 10,
+  "total_repairs": 78,
+  "lat": 37.557241,
+  "lon": 126.894984,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 108,
+  "gu": "용산구",
+  "dong": "원효로4가",
+  "n_points": 12,
+  "total_repairs": 77,
+  "lat": 37.533756,
+  "lon": 126.949475,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 99,
+  "gu": "도봉구",
+  "dong": "창동",
+  "n_points": 7,
+  "total_repairs": 75,
+  "lat": 37.658796,
+  "lon": 127.040807,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 61,
+  "gu": "영등포구",
+  "dong": "여의도동",
+  "n_points": 6,
+  "total_repairs": 74,
+  "lat": 37.520701,
+  "lon": 126.924451,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 74,
+  "gu": "서대문구",
+  "dong": "합동",
+  "n_points": 7,
+  "total_repairs": 74,
+  "lat": 37.561438,
+  "lon": 126.967517,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 163,
+  "gu": "용산구",
+  "dong": "한강로1가",
+  "n_points": 7,
+  "total_repairs": 72,
+  "lat": 37.536868,
+  "lon": 126.973851,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 185,
+  "gu": "동작구",
+  "dong": "노량진동",
+  "n_points": 6,
+  "total_repairs": 72,
+  "lat": 37.515481,
+  "lon": 126.934283,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 62,
+  "gu": "은평구",
+  "dong": "구산동",
+  "n_points": 5,
+  "total_repairs": 71,
+  "lat": 37.613853,
+  "lon": 126.911325,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 210,
+  "gu": "동대문구",
+  "dong": "전농동",
+  "n_points": 8,
+  "total_repairs": 71,
+  "lat": 37.583478,
+  "lon": 127.053573,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 82,
+  "gu": "영등포구",
+  "dong": "경인로",
+  "n_points": 8,
+  "total_repairs": 70,
+  "lat": 37.516884,
+  "lon": 126.906482,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 96,
+  "gu": "은평구",
+  "dong": "수색동",
+  "n_points": 6,
+  "total_repairs": 70,
+  "lat": 37.586939,
+  "lon": 126.886593,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 154,
+  "gu": "성동구",
+  "dong": "성수동1가",
+  "n_points": 8,
+  "total_repairs": 70,
+  "lat": 37.551676,
+  "lon": 127.045558,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 116,
+  "gu": "마포구",
+  "dong": "상암동",
+  "n_points": 9,
+  "total_repairs": 69,
+  "lat": 37.561397,
+  "lon": 126.888878,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 227,
+  "gu": "금천구",
+  "dong": "가산동",
+  "n_points": 6,
+  "total_repairs": 69,
+  "lat": 37.482613,
+  "lon": 126.87888,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 100,
+  "gu": "종로구",
+  "dong": "원남동",
+  "n_points": 8,
+  "total_repairs": 68,
+  "lat": 37.575667,
+  "lon": 126.997459,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 206,
+  "gu": "영등포구",
+  "dong": "양화동",
+  "n_points": 6,
+  "total_repairs": 68,
+  "lat": 37.552262,
+  "lon": 126.878646,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 112,
+  "gu": "서초구",
+  "dong": "반포동",
+  "n_points": 6,
+  "total_repairs": 67,
+  "lat": 37.503637,
+  "lon": 127.006932,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 106,
+  "gu": "강서구",
+  "dong": "등촌동",
+  "n_points": 9,
+  "total_repairs": 65,
+  "lat": 37.556655,
+  "lon": 126.863202,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 220,
+  "gu": "성북구",
+  "dong": "장위동",
+  "n_points": 5,
+  "total_repairs": 65,
+  "lat": 37.62273,
+  "lon": 127.047568,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 107,
+  "gu": "강남구",
+  "dong": "자곡동",
+  "n_points": 10,
+  "total_repairs": 64,
+  "lat": 37.482474,
+  "lon": 127.105615,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 152,
+  "gu": "구로구",
+  "dong": "경인로",
+  "n_points": 8,
+  "total_repairs": 62,
+  "lat": 37.497212,
+  "lon": 126.855939,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 181,
+  "gu": "동작구",
+  "dong": "노량진동",
+  "n_points": 6,
+  "total_repairs": 62,
+  "lat": 37.513146,
+  "lon": 126.93456,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 202,
+  "gu": "도봉구",
+  "dong": "창동",
+  "n_points": 5,
+  "total_repairs": 62,
+  "lat": 37.64426,
+  "lon": 127.032146,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 211,
+  "gu": "강남구",
+  "dong": "수서동",
+  "n_points": 6,
+  "total_repairs": 62,
+  "lat": 37.493425,
+  "lon": 127.101008,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 126,
+  "gu": "영등포구",
+  "dong": "대림동",
+  "n_points": 8,
+  "total_repairs": 60,
+  "lat": 37.488749,
+  "lon": 126.905932,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 209,
+  "gu": "마포구",
+  "dong": "토정동",
+  "n_points": 14,
+  "total_repairs": 60,
+  "lat": 37.540706,
+  "lon": 126.939011,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 95,
+  "gu": "성동구",
+  "dong": "옥수동",
+  "n_points": 5,
+  "total_repairs": 59,
+  "lat": 37.540623,
+  "lon": 127.01854,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 128,
+  "gu": "금천구",
+  "dong": "가산동",
+  "n_points": 9,
+  "total_repairs": 59,
+  "lat": 37.485055,
+  "lon": 126.874431,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 124,
+  "gu": "마포구",
+  "dong": "신정동",
+  "n_points": 8,
+  "total_repairs": 58,
+  "lat": 37.544029,
+  "lon": 126.930393,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 178,
+  "gu": "성북구",
+  "dong": "동소문동5가",
+  "n_points": 6,
+  "total_repairs": 58,
+  "lat": 37.591636,
+  "lon": 127.013662,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 140,
+  "gu": "구로구",
+  "dong": "구로동",
+  "n_points": 11,
+  "total_repairs": 57,
+  "lat": 37.492854,
+  "lon": 126.883584,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 158,
+  "gu": "마포구",
+  "dong": "상암동",
+  "n_points": 11,
+  "total_repairs": 57,
+  "lat": 37.575144,
+  "lon": 126.865374,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 141,
+  "gu": "강동구",
+  "dong": "고덕동",
+  "n_points": 7,
+  "total_repairs": 56,
+  "lat": 37.567802,
+  "lon": 127.152981,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 150,
+  "gu": "동작구",
+  "dong": "사당동",
+  "n_points": 8,
+  "total_repairs": 56,
+  "lat": 37.484365,
+  "lon": 126.981876,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 179,
+  "gu": "중랑구",
+  "dong": "신내동",
+  "n_points": 7,
+  "total_repairs": 56,
+  "lat": 37.612578,
+  "lon": 127.112413,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 184,
+  "gu": "용산구",
+  "dong": "동빙고동",
+  "n_points": 10,
+  "total_repairs": 56,
+  "lat": 37.529335,
+  "lon": 126.991459,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 104,
+  "gu": "서대문구",
+  "dong": "홍제동",
+  "n_points": 7,
+  "total_repairs": 55,
+  "lat": 37.58019,
+  "lon": 126.952158,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 171,
+  "gu": "용산구",
+  "dong": "보광동",
+  "n_points": 9,
+  "total_repairs": 54,
+  "lat": 37.525726,
+  "lon": 127.002627,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 207,
+  "gu": "마포구",
+  "dong": "성산동",
+  "n_points": 10,
+  "total_repairs": 54,
+  "lat": 37.565457,
+  "lon": 126.911671,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 157,
+  "gu": "강서구",
+  "dong": "개화동",
+  "n_points": 9,
+  "total_repairs": 53,
+  "lat": 37.590948,
+  "lon": 126.805914,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 173,
+  "gu": "성북구",
+  "dong": "동선동1가",
+  "n_points": 10,
+  "total_repairs": 53,
+  "lat": 37.592613,
+  "lon": 127.017031,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 208,
+  "gu": "종로구",
+  "dong": "숭인동",
+  "n_points": 6,
+  "total_repairs": 53,
+  "lat": 37.575644,
+  "lon": 127.022714,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 226,
+  "gu": "종로구",
+  "dong": "적선동",
+  "n_points": 5,
+  "total_repairs": 53,
+  "lat": 37.575658,
+  "lon": 126.974799,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 142,
+  "gu": "양천구",
+  "dong": "신월동",
+  "n_points": 5,
+  "total_repairs": 52,
+  "lat": 37.522323,
+  "lon": 126.850435,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 177,
+  "gu": "관악구",
+  "dong": "신림동",
+  "n_points": 8,
+  "total_repairs": 52,
+  "lat": 37.469829,
+  "lon": 126.944885,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 97,
+  "gu": "강남구",
+  "dong": "대치동",
+  "n_points": 6,
+  "total_repairs": 51,
+  "lat": 37.488561,
+  "lon": 127.056276,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 147,
+  "gu": "종로구",
+  "dong": "명륜4가",
+  "n_points": 6,
+  "total_repairs": 51,
+  "lat": 37.583057,
+  "lon": 126.998626,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 172,
+  "gu": "노원구",
+  "dong": "중계동",
+  "n_points": 7,
+  "total_repairs": 51,
+  "lat": 37.662132,
+  "lon": 127.074697,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 191,
+  "gu": "동작구",
+  "dong": "상도1동",
+  "n_points": 5,
+  "total_repairs": 51,
+  "lat": 37.502833,
+  "lon": 126.948318,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 237,
+  "gu": "관악구",
+  "dong": "난곡로",
+  "n_points": 6,
+  "total_repairs": 51,
+  "lat": 37.460673,
+  "lon": 126.920435,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 143,
+  "gu": "중랑구",
+  "dong": "면목동",
+  "n_points": 8,
+  "total_repairs": 50,
+  "lat": 37.580812,
+  "lon": 127.092387,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 76,
+  "gu": "성북구",
+  "dong": "정릉동",
+  "n_points": 6,
+  "total_repairs": 49,
+  "lat": 37.607013,
+  "lon": 127.005768,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 168,
+  "gu": "구로구",
+  "dong": "궁동",
+  "n_points": 8,
+  "total_repairs": 49,
+  "lat": 37.493198,
+  "lon": 126.835136,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 114,
+  "gu": "중랑구",
+  "dong": "상봉동",
+  "n_points": 7,
+  "total_repairs": 48,
+  "lat": 37.599505,
+  "lon": 127.087783,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 148,
+  "gu": "구로구",
+  "dong": "경인로",
+  "n_points": 7,
+  "total_repairs": 48,
+  "lat": 37.496588,
+  "lon": 126.861947,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 161,
+  "gu": "마포구",
+  "dong": "성산동",
+  "n_points": 8,
+  "total_repairs": 48,
+  "lat": 37.56324,
+  "lon": 126.904906,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 223,
+  "gu": "성동구",
+  "dong": "하왕십리동",
+  "n_points": 5,
+  "total_repairs": 48,
+  "lat": 37.562652,
+  "lon": 127.032584,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 170,
+  "gu": "노원구",
+  "dong": "공릉동",
+  "n_points": 9,
+  "total_repairs": 47,
+  "lat": 37.617356,
+  "lon": 127.072258,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 219,
+  "gu": "구로구",
+  "dong": "신도림동",
+  "n_points": 5,
+  "total_repairs": 47,
+  "lat": 37.508328,
+  "lon": 126.888164,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 236,
+  "gu": "마포구",
+  "dong": "청암동",
+  "n_points": 5,
+  "total_repairs": 47,
+  "lat": 37.534754,
+  "lon": 126.944855,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 127,
+  "gu": "용산구",
+  "dong": "용산동2가",
+  "n_points": 6,
+  "total_repairs": 46,
+  "lat": 37.542141,
+  "lon": 126.987936,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 175,
+  "gu": "용산구",
+  "dong": "신계동",
+  "n_points": 8,
+  "total_repairs": 46,
+  "lat": 37.533983,
+  "lon": 126.968138,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 130,
+  "gu": "송파구",
+  "dong": "장지동",
+  "n_points": 7,
+  "total_repairs": 44,
+  "lat": 37.47524,
+  "lon": 127.127047,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 201,
+  "gu": "중구",
+  "dong": "순화동",
+  "n_points": 5,
+  "total_repairs": 44,
+  "lat": 37.559386,
+  "lon": 126.971939,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 182,
+  "gu": "마포구",
+  "dong": "성산동",
+  "n_points": 9,
+  "total_repairs": 43,
+  "lat": 37.573052,
+  "lon": 126.899181,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 234,
+  "gu": "송파구",
+  "dong": "문정동",
+  "n_points": 5,
+  "total_repairs": 43,
+  "lat": 37.481597,
+  "lon": 127.115029,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 92,
+  "gu": "동작구",
+  "dong": "상도동",
+  "n_points": 7,
+  "total_repairs": 42,
+  "lat": 37.495905,
+  "lon": 126.960772,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 89,
+  "gu": "양천구",
+  "dong": "중앙로",
+  "n_points": 5,
+  "total_repairs": 41,
+  "lat": 37.51826,
+  "lon": 126.853767,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 187,
+  "gu": "금천구",
+  "dong": "가산동",
+  "n_points": 7,
+  "total_repairs": 41,
+  "lat": 37.481481,
+  "lon": 126.883662,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 233,
+  "gu": "구로구",
+  "dong": "개봉동",
+  "n_points": 6,
+  "total_repairs": 41,
+  "lat": 37.502539,
+  "lon": 126.846653,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 118,
+  "gu": "강남구",
+  "dong": "자곡동",
+  "n_points": 6,
+  "total_repairs": 39,
+  "lat": 37.478335,
+  "lon": 127.114082,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 121,
+  "gu": "은평구",
+  "dong": "응암동",
+  "n_points": 6,
+  "total_repairs": 39,
+  "lat": 37.597838,
+  "lon": 126.938212,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 145,
+  "gu": "용산구",
+  "dong": "이촌동",
+  "n_points": 7,
+  "total_repairs": 39,
+  "lat": 37.517513,
+  "lon": 126.959004,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 195,
+  "gu": "동작구",
+  "dong": "사당동",
+  "n_points": 7,
+  "total_repairs": 39,
+  "lat": 37.492012,
+  "lon": 126.982579,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 212,
+  "gu": "관악구",
+  "dong": "봉천동",
+  "n_points": 5,
+  "total_repairs": 38,
+  "lat": 37.484276,
+  "lon": 126.93846,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 110,
+  "gu": "강남구",
+  "dong": "압구정동",
+  "n_points": 5,
+  "total_repairs": 37,
+  "lat": 37.532543,
+  "lon": 127.025178,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 120,
+  "gu": "동대문구",
+  "dong": "제기동",
+  "n_points": 5,
+  "total_repairs": 37,
+  "lat": 37.582456,
+  "lon": 127.029566,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 155,
+  "gu": "영등포구",
+  "dong": "양화동",
+  "n_points": 6,
+  "total_repairs": 37,
+  "lat": 37.544606,
+  "lon": 126.890191,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 239,
+  "gu": "영등포구",
+  "dong": "양평동5가",
+  "n_points": 5,
+  "total_repairs": 37,
+  "lat": 37.538465,
+  "lon": 126.893503,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 164,
+  "gu": "양천구",
+  "dong": "신월동",
+  "n_points": 6,
+  "total_repairs": 36,
+  "lat": 37.529266,
+  "lon": 126.838482,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 186,
+  "gu": "용산구",
+  "dong": "이촌동",
+  "n_points": 5,
+  "total_repairs": 35,
+  "lat": 37.517366,
+  "lon": 126.975686,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 221,
+  "gu": "중랑구",
+  "dong": "신내동",
+  "n_points": 5,
+  "total_repairs": 35,
+  "lat": 37.615892,
+  "lon": 127.112321,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 138,
+  "gu": "강서구",
+  "dong": "방화동",
+  "n_points": 5,
+  "total_repairs": 34,
+  "lat": 37.571069,
+  "lon": 126.804332,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 156,
+  "gu": "서초구",
+  "dong": "서초동",
+  "n_points": 6,
+  "total_repairs": 34,
+  "lat": 37.482761,
+  "lon": 127.012313,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 188,
+  "gu": "동작구",
+  "dong": "동작동",
+  "n_points": 6,
+  "total_repairs": 34,
+  "lat": 37.502947,
+  "lon": 126.979219,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 217,
+  "gu": "중랑구",
+  "dong": "상봉동",
+  "n_points": 6,
+  "total_repairs": 34,
+  "lat": 37.594088,
+  "lon": 127.079091,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 216,
+  "gu": "관악구",
+  "dong": "신림동",
+  "n_points": 10,
+  "total_repairs": 33,
+  "lat": 37.476198,
+  "lon": 126.937521,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 162,
+  "gu": "서대문구",
+  "dong": "홍은동",
+  "n_points": 6,
+  "total_repairs": 32,
+  "lat": 37.581803,
+  "lon": 126.925981,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 167,
+  "gu": "강서구",
+  "dong": "내발산동",
+  "n_points": 6,
+  "total_repairs": 32,
+  "lat": 37.558436,
+  "lon": 126.83913,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 215,
+  "gu": "강동구",
+  "dong": "암사동",
+  "n_points": 5,
+  "total_repairs": 32,
+  "lat": 37.558672,
+  "lon": 127.126169,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 146,
+  "gu": "강서구",
+  "dong": "등촌동",
+  "n_points": 5,
+  "total_repairs": 31,
+  "lat": 37.55013,
+  "lon": 126.858225,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 190,
+  "gu": "용산구",
+  "dong": "원효로1가",
+  "n_points": 6,
+  "total_repairs": 31,
+  "lat": 37.538268,
+  "lon": 126.967489,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 224,
+  "gu": "송파구",
+  "dong": "송파동",
+  "n_points": 5,
+  "total_repairs": 31,
+  "lat": 37.509893,
+  "lon": 127.113019,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 160,
+  "gu": "서대문구",
+  "dong": "홍은동",
+  "n_points": 5,
+  "total_repairs": 30,
+  "lat": 37.591395,
+  "lon": 126.941188,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 193,
+  "gu": "강서구",
+  "dong": "화곡동",
+  "n_points": 7,
+  "total_repairs": 30,
+  "lat": 37.548858,
+  "lon": 126.847122,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 203,
+  "gu": "동작구",
+  "dong": "대방동",
+  "n_points": 5,
+  "total_repairs": 30,
+  "lat": 37.506155,
+  "lon": 126.923315,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 197,
+  "gu": "강동구",
+  "dong": "둔촌동",
+  "n_points": 6,
+  "total_repairs": 29,
+  "lat": 37.525661,
+  "lon": 127.145366,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 204,
+  "gu": "노원구",
+  "dong": "월계동",
+  "n_points": 6,
+  "total_repairs": 29,
+  "lat": 37.622911,
+  "lon": 127.070693,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 218,
+  "gu": "종로구",
+  "dong": "무악동",
+  "n_points": 5,
+  "total_repairs": 29,
+  "lat": 37.575716,
+  "lon": 126.95655,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 194,
+  "gu": "영등포구",
+  "dong": "신길동",
+  "n_points": 5,
+  "total_repairs": 27,
+  "lat": 37.504229,
+  "lon": 126.920815,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 222,
+  "gu": "양천구",
+  "dong": "신정동",
+  "n_points": 7,
+  "total_repairs": 27,
+  "lat": 37.514842,
+  "lon": 126.83169,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 198,
+  "gu": "마포구",
+  "dong": "합정동",
+  "n_points": 6,
+  "total_repairs": 25,
+  "lat": 37.548313,
+  "lon": 126.906491,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 205,
+  "gu": "관악구",
+  "dong": "봉천동",
+  "n_points": 5,
+  "total_repairs": 25,
+  "lat": 37.492028,
+  "lon": 126.926999,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 200,
+  "gu": "서대문구",
+  "dong": "연희동",
+  "n_points": 5,
+  "total_repairs": 23,
+  "lat": 37.578804,
+  "lon": 126.932563,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 213,
+  "gu": "금천구",
+  "dong": "가산동",
+  "n_points": 5,
+  "total_repairs": 23,
+  "lat": 37.479539,
+  "lon": 126.87596,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 189,
+  "gu": "강서구",
+  "dong": "방화동",
+  "n_points": 6,
+  "total_repairs": 22,
+  "lat": 37.584578,
+  "lon": 126.818949,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 228,
+  "gu": "동작구",
+  "dong": "사당동",
+  "n_points": 5,
+  "total_repairs": 22,
+  "lat": 37.484134,
+  "lon": 126.977836,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 225,
+  "gu": "서초구",
+  "dong": "효령로",
+  "n_points": 5,
+  "total_repairs": 18,
+  "lat": 37.482118,
+  "lon": 127.000647,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 232,
+  "gu": "용산구",
+  "dong": "원효로2가",
+  "n_points": 4,
+  "total_repairs": 17,
+  "lat": 37.537453,
+  "lon": 126.964414,
+  "acc_within_250m": 0
+ },
+ {
+  "zone": 229,
+  "gu": "용산구",
+  "dong": "한남동",
+  "n_points": 5,
+  "total_repairs": 16,
+  "lat": 37.534145,
+  "lon": 127.007085,
+  "acc_within_250m": 0
+ }
+]

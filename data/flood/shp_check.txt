@@ -1,0 +1,21 @@
+
+=== seq_103.zip ===
+침수흔적도 최종2: 읽기 실패 dbfFileException Could not decode field name or text/memo field: b'\xc7\xc7\xc7\xd8\xc0\xa7\xc4\xa1(\x00' using encoding='utf-8' and encodingErrors='strict' no matter how many trailing pad bytes (if any) ({pad_bytes!r}) were used. 
+
+=== seq_30.zip ===
+2022 서울시 침수흔적도 업뎃: 19881 피처, 타입=POLYGON
+  필드: ['OBJECTID', 'GU_NAM', 'F_SHIM', 'F_DISA_NM', 'F_AVR_HGT', 'F_AREA', 'ADM_CD', 'F_SAT_YMD', 'F_END_YMD', 'F_SAT_TM', 'F_END_TM', 'F_RSN_DTL', 'F_ZONE_NM', 'INV_YR', 'F_YR', 'TYPE', 'layer', 'path']
+  prj: PROJCS["KGD2002_Unified_Coordinate_System",GEOGCS["GCS_KGD2002",DATUM["D_Korea_G
+2022 서울시 침수흔적도 업뎃: 읽기 실패 dbfFileException Could not decode field name or text/memo field: b'\xbc\xdb\xc6\xc4\xb1\xb8                                                                                                                                                                                                                                                        ' using encoding='utf-8' and encodingErrors='strict' no matter how many trailing pad bytes (if any) ({pad_bytes!r}) were used. 
+
+=== seq_31.zip ===
+2023 침수흔적도 최신수정: 278 피처, 타입=POLYGON
+  필드: ['F_AREA', 'ADM_CD', 'F_ZONE_NM', 'TYPE', 'F_DISA_NM', 'F_AVR_HGT', 'F_SAT_YMD', 'F_END_YMD', 'F_SAT_TM', 'F_END_TM', 'F_RSN_DTL', 'INV_YR', 'F_YR', 'F_SHIM', 'GU_NAM']
+  prj: PROJCS["KGD2002_Unified_Coordinate_System",GEOGCS["GCS_KGD2002",DATUM["D_Korea_G
+2023 침수흔적도 최신수정: 읽기 실패 dbfFileException Could not decode field name or text/memo field: b'\xbc\xad\xbf\xef \xc1\xbe\xb7\xce\xb1\xb8 \xc3\xa2\xbd\xc56\xb1\xe6  32-3, (\xc3\xa2\xbd\xc5\xb5\xbf)                                                                                                                                                                                                                           ' using encoding='utf-8' and encodingErrors='strict' no matter how many trailing pad bytes (if any) ({pad_bytes!r}) were used. 
+
+=== seq_32.zip ===
+2024 최종: 121 피처, 타입=POLYGON
+  필드: ['PNU', 'COL_ADM_SE', 'F_AREA', 'ADM_CD', 'F_ZONE_NM', 'TYPE', 'F_DISA_NM', 'F_AVR_HGT', 'F_SAT_YMD', 'F_END_YMD', 'F_SAT_TM', 'F_END_TM', 'F_RSN_DTL', 'INV_YR', 'F_YR', 'F_SHIM', 'GU_NAM']
+  prj: PROJCS["KGD2002_Unified_Coordinate_System",GEOGCS["GCS_KGD2002",DATUM["D_Korea_G
+2024 최종: 읽기 실패 dbfFileException Could not decode field name or text/memo field: b'\xc1\xdf\xb1\xb8 \xc3\xe6\xb9\xab\xb7\xce4\xb0\xa1 127-16\xb9\xf8\xc1\xf6                                           ' using encoding='utf-8' and encodingErrors='strict' no matter how many trailing pad bytes (if any) ({pad_bytes!r}) were used. 

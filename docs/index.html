@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>장마가 오기 전에 — 하수관 위험 우선순위</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<style>
+  :root { --ink:#1B2559; --blue:#0040cb; --muted:#6B7280; --line:#e5e8ec; }
+  * { box-sizing: border-box; }
+  body { margin:0; padding:48px 20px 64px; background:#f7f8fc; color:var(--ink);
+         font-family:'Pretendard Variable',Pretendard,'Malgun Gothic',sans-serif; }
+  .wrap { max-width: 880px; margin: 0 auto; }
+  .badge { display:inline-block; background:var(--blue); color:#fff; font-size:13px; font-weight:600;
+           padding:6px 12px; border-radius:999px; margin-bottom:18px; }
+  h1 { font-size:40px; margin:0 0 10px; letter-spacing:-.5px; }
+  .sub { font-size:16px; color:var(--muted); margin:0 0 8px; line-height:1.6; }
+  .meta { font-size:13.5px; color:#9aa3af; margin:0 0 36px; }
+  .cards { display:grid; grid-template-columns:1fr 1fr; gap:18px; }
+  @media (max-width:720px) { .cards { grid-template-columns:1fr; } h1 { font-size:30px; } }
+  a.card { display:block; background:#fff; border:1px solid var(--line); border-radius:14px;
+           padding:22px 24px; text-decoration:none; color:inherit;
+           box-shadow:0 4px 18px rgba(27,37,89,.06); transition:transform .15s, box-shadow .15s; }
+  a.card:hover { transform:translateY(-2px); box-shadow:0 8px 26px rgba(27,37,89,.12); }
+  .card h2 { font-size:20px; margin:0 0 8px; }
+  .card p { font-size:14px; color:var(--muted); margin:0 0 12px; line-height:1.65; }
+  .tag { display:inline-block; font-size:12px; font-weight:600; padding:4px 10px; border-radius:999px; }
+  .real { background:#e8f3ec; color:#1a7f37; }
+  .demo { background:#e9eefc; color:var(--blue); }
+  .note { margin-top:32px; padding:16px 18px; background:#fff; border:1px solid var(--line);
+          border-radius:12px; font-size:13.5px; color:var(--muted); line-height:1.75; }
+  .note b { color:var(--ink); }
+  footer { margin-top:28px; font-size:13px; color:#9aa3af; }
+  footer a { color:var(--blue); text-decoration:none; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <span class="badge">명지대학교 창의적 SW 경진대회 · 빅데이터 분석 부문 최우수상</span>
+  <h1>장마가 오기 전에</h1>
+  <p class="sub">사고, 침수, 보수 이력, CCTV 데이터를 결합해 하수관 결함을 싱크홀과 침수 두 축의 위험으로 환산하고,<br>
+     자치구별 조사·보수 우선순위를 제공하는 분석 시스템입니다.</p>
+  <p class="meta">TEAM 톰과젤리 · 2026</p>
+
+  <div class="cards">
+    <a class="card" href="dashboard.html">
+      <h2>의사결정 대시보드</h2>
+      <p>자치구를 선택하면 조사 후보 주소가 위험 신호와 함께 정렬되고 CSV로 내려받을 수 있습니다.
+         예산을 조절해 보수 가능한 범위를 계산하는 시뮬레이션도 포함되어 있습니다.</p>
+      <span class="tag real">조사 우선순위 · 100% 실데이터</span>
+    </a>
+    <a class="card" href="map_prototype.html">
+      <h2>위험 지도</h2>
+      <p>자치구별 위험 유형을 색으로 표시하고, 침수 실측·반복 보수·실제 사고 지점을 레이어로 겹쳐
+         색칠의 근거를 원데이터로 확인할 수 있습니다.</p>
+      <span class="tag real">8개 레이어 · 근거 열람</span>
+    </a>
+  </div>
+
+  <div class="note">
+    <b>데이터 안내</b><br>
+    조사 우선순위, 지도의 침수·보수·사고 레이어는 모두 공개된 실데이터로 산출했습니다.
+    보수 우선순위(지도의 AI 탐지 구간, 예산 시뮬레이션)는 학습용 CCTV 이미지에 위치 정보가 없어
+    구간 구성과 위치를 가상으로 둔 <b>시연</b>이며, 결함 탐지와 위험 점수 계산은 실제 모델·엔진의 출력입니다.
+    자치구의 조사 기록이 연계되면 실제 관로 주소로 전환됩니다.
+  </div>
+
+  <footer>
+    자료: 국토교통부 지하안전정보시스템 / 서울 열린데이터광장 / 공공데이터포털 / AI-Hub / VWorld ·
+    <a href="https://github.com/">소스 코드</a>
+  </footer>
+</div>
+</body>
+</html>
