@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1240" width="1600" height="1240" font-family="'Pretendard','Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2E6BC6"/>
+    </marker>
+    <style>
+      .ln{fill:none;stroke:#2E6BC6;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round}
+      .ic{fill:#fff;stroke:#2E6BC6;stroke-width:2.8;stroke-linecap:round;stroke-linejoin:round}
+      .scr{fill:#EAF1FB;stroke:#2E6BC6;stroke-width:2}
+      .bx{fill:#fff;stroke:#2E6BC6;stroke-width:2.2}
+      .grp{fill:#F7FAFE;stroke:#9DB8E3;stroke-width:1.8;stroke-dasharray:8 6}
+      .t{font-size:22px;font-weight:600;fill:#222;text-anchor:middle}
+      .s{font-size:16px;fill:#555;text-anchor:middle}
+      .g{font-size:19px;font-weight:700;fill:#2E6BC6;text-anchor:middle}
+      .e{font-size:16px;fill:#2E6BC6;text-anchor:middle}
+      .l{text-anchor:start}
+    </style>
+    <g id="monitor">
+      <rect class="ic" x="-90" y="-60" width="180" height="115" rx="8"/>
+      <rect class="scr" x="-78" y="-49" width="156" height="86" rx="3"/>
+      <path class="ic" d="M-18,55 L-25,82 H25 L18,55"/>
+      <path class="ln" d="M-45,82 H45"/>
+    </g>
+  </defs>
+
+  <rect x="0" y="0" width="1600" height="1240" fill="#fff"/>
+  <text x="800" y="80" font-size="40" font-weight="700" fill="#111" text-anchor="middle">시스템 구조</text>
+
+  <!-- 데이터 출처 -->
+  <!-- 포트홀 보수 이력 (표) -->
+  <g transform="translate(180,215)">
+    <rect class="ic" x="-45" y="-42" width="90" height="84" rx="6"/>
+    <rect class="scr" x="-45" y="-42" width="90" height="22" rx="6"/>
+    <path class="ln" stroke-width="2" d="M-45,0 H45 M-45,21 H45 M-15,-20 V42 M15,-20 V42"/>
+  </g>
+  <text class="t" x="180" y="295">포트홀 보수 이력</text>
+  <text class="s" x="180" y="320">XLSX, 94,469건</text>
+
+  <!-- 지반침하 사고 (문서) -->
+  <g transform="translate(420,215)">
+    <path class="ic" d="M-35,-45 H16 L36,-25 V45 H-35 Z"/>
+    <path class="ln" d="M16,-45 V-25 H36"/>
+    <path class="ln" stroke-width="2" d="M-20,-10 H20 M-20,5 H20 M-20,20 H10"/>
+  </g>
+  <text class="t" x="420" y="295">지반침하 사고</text>
+  <text class="s" x="420" y="320">국토부 API, 1,584건</text>
+
+  <!-- 침수흔적도 (지도) -->
+  <g transform="translate(660,215)">
+    <path class="ic" d="M-50,-32 L-17,-42 L17,-32 L50,-42 V32 L17,42 L-17,32 L-50,42 Z"/>
+    <path class="ln" stroke-width="2" d="M-17,-42 V32 M17,-32 V42"/>
+    <path d="M0,-14 C-9,-2 -12,4 -12,9 A12,12 0 0 0 12,9 C12,4 9,-2 0,-14 Z" fill="#EAF1FB" stroke="#2E6BC6" stroke-width="2"/>
+  </g>
+  <text class="t" x="660" y="295">침수흔적도</text>
+  <text class="s" x="660" y="320">SHP, 폴리곤 21,412개</text>
+
+  <!-- AI-Hub CCTV (카메라) -->
+  <g transform="translate(1180,215)">
+    <rect class="ic" x="-20" y="-44" width="40" height="16" rx="3"/>
+    <rect class="ic" x="-52" y="-32" width="104" height="70" rx="9"/>
+    <circle class="ic" cx="0" cy="3" r="22"/>
+    <circle class="scr" cx="0" cy="3" r="11"/>
+    <circle cx="36" cy="-18" r="4" fill="#2E6BC6"/>
+  </g>
+  <text class="t" x="1180" y="295">하수관로 CCTV 이미지</text>
+  <text class="s" x="1180" y="320">AI-Hub, 33,000장 학습</text>
+
+  <!-- 출처 → 그룹 -->
+  <path class="ln" d="M180,335 V370 M420,335 V370 M660,335 V370 M180,370 H660"/>
+
+  <!-- ① 조사 우선순위 -->
+  <rect class="grp" x="90" y="410" width="660" height="470" rx="14"/>
+  <rect class="bx" x="270" y="478" width="300" height="84" rx="10"/>
+  <text class="t" x="420" y="514">지오코딩</text>
+  <text class="s" x="420" y="541">주소 → 좌표, VWorld API, 성공률 98.8%</text>
+  <path class="ln" d="M420,562 V600" marker-end="url(#arr)"/>
+  <rect class="bx" x="230" y="606" width="380" height="84" rx="10"/>
+  <text class="t" x="420" y="642">공간 결합</text>
+  <text class="s" x="420" y="669">반복 보수 6,447곳 × 사고 250m, 침수 100m</text>
+  <path class="ln" d="M420,690 V728" marker-end="url(#arr)"/>
+  <rect class="bx" x="270" y="734" width="300" height="84" rx="10"/>
+  <text class="t" x="420" y="770">DBSCAN 군집</text>
+  <text class="s" x="420" y="797">조사 구역 241개 (eps 150m)</text>
+  <text class="g" x="420" y="858">① 조사 우선순위 (100% 실데이터)</text>
+
+  <!-- ② 보수 우선순위 -->
+  <rect class="grp" x="850" y="410" width="660" height="470" rx="14"/>
+  <rect class="bx" x="1030" y="478" width="300" height="84" rx="10"/>
+  <text class="t" x="1180" y="514">YOLOv8 결함 탐지</text>
+  <text class="s" x="1180" y="541">결함 9종, mAP50 0.693</text>
+  <path class="ln" d="M1180,562 V600" marker-end="url(#arr)"/>
+  <rect class="bx" x="1030" y="606" width="300" height="84" rx="10"/>
+  <text class="t" x="1180" y="642">위험 번역 엔진</text>
+  <text class="s" x="1180" y="669">가중치 × 심각도 × 신뢰도</text>
+  <path class="ln" d="M1180,690 V728" marker-end="url(#arr)"/>
+  <rect class="bx" x="1030" y="734" width="300" height="84" rx="10"/>
+  <text class="t" x="1180" y="770">2축 위험 점수</text>
+  <text class="s" x="1180" y="797">구간별 싱크홀 축, 침수 축</text>
+  <text class="g" x="1180" y="858">② 보수 우선순위 (가상 구간 시연)</text>
+
+  <path class="ln" d="M420,370 V472" marker-end="url(#arr)"/>
+  <path class="ln" d="M1180,335 V472" marker-end="url(#arr)"/>
+
+  <!-- 가중치 근거 -->
+  <path class="ln" stroke-dasharray="6 6" d="M1345,648 H1365"/>
+  <text class="e l" x="1370" y="618">가중치 근거</text>
+  <text class="s l" x="1370" y="644">사고 원인 통계</text>
+  <text class="s l" x="1370" y="666">Manning 공식</text>
+  <text class="s l" x="1370" y="688">환경부 상태등급</text>
+
+  <!-- 그룹 → 결과물 -->
+  <path class="ln" d="M420,880 V920 M1180,880 V920 M420,920 H1180"/>
+  <path class="ln" d="M420,920 V962" marker-end="url(#arr)"/>
+  <path class="ln" d="M1180,920 V962" marker-end="url(#arr)"/>
+
+  <!-- 위험 지도 -->
+  <use href="#monitor" x="420" y="1030"/>
+  <g transform="translate(420,1023)">
+    <path d="M-60,-30 L-25,-38 L-5,-15 L-30,5 Z" fill="#F4A08A" stroke="#2E6BC6" stroke-width="1.5"/>
+    <path d="M-5,-15 L30,-34 L60,-10 L25,10 Z" fill="#8FB0DE" stroke="#2E6BC6" stroke-width="1.5"/>
+    <path d="M-30,5 L-5,-15 L25,10 L0,30 L-40,28 Z" fill="#E36B6B" stroke="#2E6BC6" stroke-width="1.5"/>
+  </g>
+  <text class="t" x="420" y="1150">위험 지도</text>
+  <text class="s" x="420" y="1175">Folium, 자치구 위험 유형과 원데이터 레이어</text>
+
+  <!-- 의사결정 대시보드 -->
+  <use href="#monitor" x="1180" y="1030"/>
+  <g transform="translate(1180,1023)">
+    <rect x="-66" y="-36" width="34" height="68" rx="2" fill="#fff" stroke="#2E6BC6" stroke-width="1.5"/>
+    <path class="ln" stroke-width="2" d="M-22,-28 H62 M-22,-14 H52 M-22,0 H58 M-22,14 H48"/>
+    <path class="ln" stroke-width="2" d="M-22,30 L5,22 L30,25 L60,14"/>
+  </g>
+  <text class="t" x="1180" y="1150">의사결정 대시보드</text>
+  <text class="s" x="1180" y="1175">조사 후보 CSV, 보수 예산 시뮬레이션</text>
+
+  <path class="ln" stroke-dasharray="8 7" d="M518,1030 H1082" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <text class="s" x="800" y="1015">대시보드에서 주소를 누르면</text>
+  <text class="s" x="800" y="1058">지도가 그 위치로 이동</text>
+  <text class="e" x="800" y="1218">GitHub Pages 배포 (서버 없이 HTML로 동작)</text>
+</svg>
